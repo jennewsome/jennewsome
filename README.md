@@ -21,7 +21,7 @@ Experience:
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/newsomejen"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" height="28" style="filter: invert(40%);" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.github.com/jennewsome"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" height="28" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:jen.newsome@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" height="28" alt="Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://jennewsome.com/resume"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googledocs.svg" width="28" height="28" alt="Resume"/></a>
+<a href="https://www.linkedin.com/in/newsomejen"><img src="https://img.icons8.com/material-outlined/48/9CA3AF/linkedin.png" width="24" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.github.com/jennewsome"><img src="https://img.icons8.com/material-outlined/48/9CA3AF/github.png" width="24" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:jen.newsome@gmail.com"><img src="https://img.icons8.com/material-outlined/48/9CA3AF/new-post.png" width="24" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://jennewsome.com/resume"><img src="https://img.icons8.com/material-outlined/48/9CA3AF/document--v1.png" width="24" alt="Resume"/></a>
