@@ -6,7 +6,7 @@
 
 About me:
 
-- 🏰 Designer Engineer @ Disney in Orlando, FL
+- 🏰 Design Engineer @ Disney in Orlando, FL
 - 🎨 Multimedia Designer (UX/UI, Visual Design, Branding, Illustration)
 - ✨ Interests in user experience, design systems, and creative technology
 - 🤖 Research, design, prototype, code & launch by leveraging AI tools
