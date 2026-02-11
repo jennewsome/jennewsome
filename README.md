@@ -1,6 +1,6 @@
 # Hi, I'm [Jen](https://www.linkedin.com/in/newsomejen)
 
-**Design → Build → Deploy**
+**Design → Build → Launch**
 
 ---
 
