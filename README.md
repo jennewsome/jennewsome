@@ -1,7 +1,5 @@
 # Hi, I'm [Jen](https://www.linkedin.com/in/newsomejen)
 
----
-
 About me:
 
 - 🏰 Design Engineer @ Disney in Orlando, FL
@@ -9,13 +7,14 @@ About me:
 - ✨ Interests in user experience, design systems, and creative technology
 - 🤖 Research, design, prototype, code & launch by leveraging AI tools
 
+  **Design → Build → Launch**
+  
 Experience:
 
 - Lead User Experience Designer (Public Affairs & Communications) @Disney
 - Product Manager (Disney Consumer Products) @Disney
 - Sr. Product Designer (Disney Experiences Technology) @Disney
 
-  **Design → Build → Launch**
 
 ---
 
