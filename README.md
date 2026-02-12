@@ -1,7 +1,5 @@
 # Hi, I'm [Jen](https://www.linkedin.com/in/newsomejen)
 
-**Design → Build → Launch**
-
 ---
 
 About me:
@@ -16,6 +14,8 @@ Experience:
 - Lead User Experience Designer (Public Affairs & Communications) @Disney
 - Product Manager (Disney Consumer Products) @Disney
 - Sr. Product Designer (Disney Experiences Technology) @Disney
+
+  **Design → Build → Launch**
 
 ---
 
