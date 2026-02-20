@@ -6,8 +6,6 @@ About me:
 - 🎨 Multimedia Designer (UX/UI, Visual Design, Branding, Illustration)
 - ✨ Interests in user experience, design systems, and creative technology
 - 🤖 Research, design, prototype, code & launch by leveraging AI tools
-
-  **Design → Build → Launch**
   
 Experience:
 
